@@ -25,8 +25,21 @@ If you don't have an API Key then [CREATE HERE](https://ai.google.dev/)
 
 ## Screenshots
 
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-01 at 14 42 35](https://github.com/Maliud/flutter_Gemini/assets/72108306/856b8696-08c1-4de4-bf4f-a0ae79906f21) ![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-01 at 14 42 44](https://github.com/Maliud/flutter_Gemini/assets/72108306/27e41f0d-e809-41eb-bb82-17243ae18c6d)
 
-### Dark Theme
+
+
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-01 at 14 42 55](https://github.com/Maliud/flutter_Gemini/assets/72108306/6c309cf3-0972-4633-a80c-961d06529a92) [Simulator Screenshot - iPhone 15 Pro Max - 2024-04-01 at 14 43 09](https://github.com/Maliud/flutter_Gemini/assets/72108306/694215c0-bfe8-4a07-8297-bb470f829257)
+
+
+
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-01 at 14 43 19](https://github.com/Maliud/flutter_Gemini/assets/72108306/551e7403-6f33-4a9c-9895-aa3c27521dee) ![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-01 at 14 43 36](https://github.com/Maliud/flutter_Gemini/assets/72108306/f8a0a390-f877-43f5-99ed-260682016620)
+
+
+
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-01 at 14 44 18](https://github.com/Maliud/flutter_Gemini/assets/72108306/6a6d386a-046b-4a7e-a5a3-a54d69b69737) ![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-01 at 14 46 02](https://github.com/Maliud/flutter_Gemini/assets/72108306/0c5de23c-f9e0-4bd7-a31b-4d068ee19dcb)
+
+
 
 ---------
 
