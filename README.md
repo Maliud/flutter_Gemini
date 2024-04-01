@@ -5,7 +5,10 @@
 The "Flutter Gemini Main" project using googleGemini API. 
 
 
-## Tech Stack
+
+https://github.com/Maliud/flutter_Gemini/assets/72108306/a6982c89-829f-44a4-bb42-62e18d942e7a
+
+
 
 **Client:** Flutter, Dart
 
